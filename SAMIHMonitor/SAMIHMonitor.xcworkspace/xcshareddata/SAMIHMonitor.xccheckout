@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BE8F4FAE-B680-49DC-B6EB-9DC5A951E8AF</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>722D33300CBE50F7A350C50078CDED644CD39DAA</key>
+		<string>https://github.com/samsungsamiio/sami-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>722D33300CBE50F7A350C50078CDED644CD39DAA</key>
+		<string>git-sami-ios/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/samsungsamiio/sami-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>722D33300CBE50F7A350C50078CDED644CD39DAA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>722D33300CBE50F7A350C50078CDED644CD39DAA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>git-sami-ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
