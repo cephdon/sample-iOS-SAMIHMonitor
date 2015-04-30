@@ -38,7 +38,7 @@
     message.sdid = device_._id;
     message.data = @{ @"calories": @([self.caloriesField.text integerValue]),
                       @"comments": self.commentsField.text};
-    BOOL succeed = [self setMessagesetMessageTimestamp:message];
+    BOOL succeed = [self setMessageTimestamp:message];
     if (!succeed) {
         UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"Error"
                                                         message:@"You entered an incorrect date. Please correct it."
